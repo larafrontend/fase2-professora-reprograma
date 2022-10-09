@@ -4,15 +4,9 @@
 
 ## Olha Eeeela!
 
-![Professora](./images/eu.jpg)
+![Professora](./assets/eu.jpg)
 
-* Paraense
-* 28 anos
-* Taurina
-* Residente no RS
-* Ex-aluna Reprograma
-* Dorameira / Army / Otakeira
-* Ex English teacher
-* Estudante de Coreano
-* Graduada em arquitetura e urbanismo
-* Em transição de carreira
+* Paraense / Taurina / 28 anos / Transexual / Dorameira & Army & Otakeira 
+* Residindo no RS / Ex English teacher / Graduada em arquitetura e urbanismo / Em transição de carreira
+
+![Woo-young-woo](./assets/extraordinaria.gif) 

@@ -3,6 +3,9 @@
 ## Funções => Functions
 
 ## Olha Eeeela!
+
+![Professora](./images/eu.jpg)
+
 * Paraense
 * 28 anos
 * Taurina

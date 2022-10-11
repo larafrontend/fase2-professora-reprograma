@@ -50,12 +50,22 @@ Bloco de código com instruções predefinidas, executável e que pode ser reuti
     ```
     Para que uma função possa ser executada precisamos invocar (chamar), a mesma. 
 
-     ```
+    ```
         function soma(a, b) {
             return a + b
         };
 
         soma(3, 4);
+    ```
+
+    Outro exemplo...
+
+    ```
+        function leguminosasFavoritas(primeiraLeguminosa, segundaLeguminosa) {
+            console.log(`Minhas leguminosas favoritas são ${primeiraLeguminosa} e ${segundaLeguminosa}`)
+        };
+
+        leguminosasFavoritas(:eggplant:, :corn:);
     ```
 
     Mão no código, manas!!!
@@ -84,7 +94,7 @@ Bloco de código com instruções predefinidas, executável e que pode ser reuti
 
         console.log(soma);
     ```
-    
+
 ## Referências 
 
 * https://betterprogramming.pub/difference-between-regular-functions-and-arrow-functions-f65639aba256

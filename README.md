@@ -29,6 +29,16 @@ Na aulona de hoje trataremos de:
 
 ### Funções
 
+Bloco de código com instruções predefinidas, executável e que pode ser reutilizado.
+
+- Regular Functions 
+
+    ```
+        function nameOfFunction(parameter1, parameter2, ..., parameterX) {
+                // function's body
+        }
+    ```
+
 ## Referências 
 
 * https://betterprogramming.pub/difference-between-regular-functions-and-arrow-functions-f65639aba256

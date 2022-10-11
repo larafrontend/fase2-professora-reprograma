@@ -29,7 +29,7 @@ Na aulona de hoje trataremos de:
 
 ### Alunas - Front-enders
 
-<img src="./assets/attorney.gif" alt="woo to the young to the woo" width=374" height="276" />
+<img src="./assets/attorney.gif" alt="woo to the young to the woo" width="374" height="276" />
 
 
 ## Olha a aula - SE LIGA EM...

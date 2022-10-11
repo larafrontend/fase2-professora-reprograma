@@ -67,7 +67,7 @@ Bloco de código com instruções predefinidas, executável e que pode ser reuti
 
 - Regular Function
 
-    <img src="./assets/regular.gif" alt="regular function" width="704" height="100" />
+    <img src="./assets/regular.gif" alt="regular function" width="704" height="400" />
 
     ```
         function nameOfFunction(parameter1, parameter2, ..., parameterX) {
